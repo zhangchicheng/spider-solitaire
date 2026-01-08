@@ -37,7 +37,7 @@ You need to have the **Rust** toolchain installed. If you haven't, install it vi
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/zhangchicheng/spider-solitaire-bevy.git](https://github.com/zhangchicheng/spider-solitaire.git)
+    git clone https://github.com/zhangchicheng/spider-solitaire.git
     cd spider-solitaire
     ```
 
